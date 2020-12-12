@@ -79,4 +79,4 @@ for filter in filters:
 
 # Closing the folder directory.
 os.chdir('C:Desktop')
-shutil.make_archive('all_filtersd_files', 'zip', 'files');
+shutil.make_archive('all_filtered_files', 'zip', 'files');
